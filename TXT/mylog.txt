@@ -3,11 +3,14 @@
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 ZCZC W00 10 L03 Github related
 ZCZC W00 20 L99 Other (eating lunch)
-ZCZC W00 3 L11 Assignment #01: Making appropriate repository
-ZCZC W00 5 L13 Assignment #03 Making Github Page
+ZCZC W00 5 L11 Assignment #01: Making appropriate repository
+ZCZC W00 10 L13 Assignment #03 Making Github Page
 ZCZC W00 8 L04 Github Pages Related
 ZCZC W00 10 L12 Assignment #02: Filling the Log
 ZCZC W00 5 L14 Assignment #04: Filling OS Google Form
 ZCZC W00 20 L32 YouTube: study Operating System
 ZCZC W00 60 L30 Udacity: study
 ZCZC W00 65 L82 Reading Book (OS Online PPT)
+ZCZC W00 120 L15 Assignment #05
+ZCZC W00 5 L31 VirtualBox: install
+ZCZC W00 8 L04 Github Pages Related
