@@ -1,4 +1,4 @@
-# Log Format
+\# Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 ZCZC W00 10 L03 Github related
@@ -17,8 +17,9 @@ ZCZC W00 8 L04 Github Pages Related
 ZCZC W01 30 L11 Assignment #01(installing Virtual Box, extension pack, and winSCP)
 ZCZC W01 60 L12 Assignment #02(Importing OVA, running, login, ogout, export it and import it)
 ZCZC W01 120 L14 Assignment #04(changing hostname, username)
-ZCZC W01 120 L14 Assignment #04(exporting user as Guest-01b)
+ZCZC W01 120 L14 Assignment #04(exporting user as Guest-01bZCZC W01 120 L14 Assignment #04(exporting user as Guest-01b))
 ZCZC W01 60 L15 Assignment #05(downloading Sudo, download git config, setting up username, email, and global editor)
-ZCZC W01 3 L15 Assignment #05(pulling OS212 from github repository)
+ZCZC W01 3 L15 Assignment #05(pulling OS212 from github)
 ZCZC W01 15 L16 Assignment #06(updating mylog.txt using nano text editor)
 ZCZC W01 4 L16 Assignment #06(push mylog.txt back to github repo)
+ZCZC W01 120 L15 Assignment #06 (dressing up GitHub page)
