@@ -23,5 +23,6 @@ ZCZC W01 3 L15 Assignment #05(pulling OS212 from github)
 ZCZC W01 15 L16 Assignment #0ZCZC WO1 120 L13 Assignment #03 (learning basic linux command by running it on putty)7(updating mylog.txt using nano text editor)
 ZCZC W01 4 L16 Assignment #07(push mylog.txt back to github repo)
 ZCZC W01 120 L15 Assignment #06 (dressing up GitHub page)
-ZCZC WO1 180 L13 Assignment #03 (learning basic linux command by running it on putty
+ZCZC WO1 180 L13 Assignment #03 (learning basic linux command by running it on putty and vim)
 ZCZC WO1 180 L13 Assignment #08 (learning Awk and regex basic)
+ZCZC W01 60 L14 Assignment #09 (reading chapter 18 from book as i have read chapter 1,2 from slides)
