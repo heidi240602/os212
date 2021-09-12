@@ -1,5 +1,5 @@
-#Hello, my name is Heidi and my Git username is heidi240602
-###i'am a student of Operating System 2021, i really need help because iam struggling right now :,)
+# Hello, my name is Heidi and my Git username is heidi240602
+### i'am a student of Operating System 2021, i really need help because iam struggling right now :,)
 
 <br>
 This [GitHub Page](https://pages.github.com/) is hosted at [GitHub.com]({{ site.urlgithub }}).
