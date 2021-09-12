@@ -1,4 +1,4 @@
-# Hello, my name is Heidi and my Git username is heidi240602
+# Operating System 2021-2
 ### i'am a student of Operating System 2021, i really need help because iam struggling right now :,)
 
 <br>
