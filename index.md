@@ -1,5 +1,5 @@
----
----
+#Hello, my name is Heidi and my Git username is heidi240602
+###i'am a student of Operating System 2021, i really need help because iam struggling right now :,)
 
 <br>
 This [GitHub Page](https://pages.github.com/) is hosted at [GitHub.com]({{ site.urlgithub }}).
@@ -8,7 +8,7 @@ You can download the source either as a
 [TARBALL]({{ site.baseurl }}/template.tar.bz2) file.
 File [LISTINGS]({{ site.baseurl }}/000.html) are also available.
 
-I am Heidi Renata Halim, Tanggerang, Indonesia.
+I am Heidi Renata Halim from Tanggerang, Indonesia.
 
 <br>
 ## Table Example
@@ -20,8 +20,8 @@ I am Heidi Renata Halim, Tanggerang, Indonesia.
 <br>
 ## More Links
 
-* [GitHub Page with no Jekyll Theme](https://doit.vlsm.org/001.md)
-* [Installing Jekyll on a VirtualBox](https://doit.vlsm.org/005.md)
+* [Installing empty Debian guest from scratch](https://osp4diss.vlsm.org/#idx02b)
+* [SED for dummy](https://www.maketecheasier.com/beginners-guide-to-sed-linux/)
 * [This is how me do it records](https://doit.vlsm.org/)
 
 <br>

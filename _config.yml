@@ -25,10 +25,10 @@ navbarlinks:
   link:      "/ABOUT/"
 - navbar:    "GitHub Page"
   link:      "https://template.vlsm.org/"
-title:       "GitHub Page Template"
+title:       "Operating System 212"
 lang:        "en-US"
-author:      "J. Walker"
-address:     "Box 7, Mawitaan, Bangalla."
+author:      "Heidi Renata Halim"
+address:     "Univerity of Indonesia"
 sitemap:     "true"
 markdown:    "kramdown"
 defaults:
