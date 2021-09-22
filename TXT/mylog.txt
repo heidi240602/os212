@@ -35,3 +35,9 @@ ZCZC W02 15 L18 Assignment #08 Exporting Public key
 ZCZC W02 120 L09 Assignment #11,#12,#13
 ZCZC W02 180 L12 Assignment #02 trying demos and watch tutorial ebout C
 ZCZC W03 60 L13 Assignment #10 reviewing peer's links and updating mind
+ZCZC W03 60 L14 Assignment #04 update bash_aliases
+ZCZC W03 120 L15 Assignment #05 setting up virtual disk, mounting and unmounting it
+ZCZC W03 15 L18 Assignment #08 update mylog.txt
+ZCZC W03 15 L19 Assignment #09 update myscript.sh ad push to repo back
+
+
