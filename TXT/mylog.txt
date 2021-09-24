@@ -40,3 +40,8 @@ ZCZC W03 120 L15 Assignment #05 setting up virtual disk, mounting and unmounting
 ZCZC W03 15 L18 Assignment #08 update mylog.txt
 ZCZC W03 15 L19 Assignment #09 update myscript.sh ad push to repo back
 ZCZC W03 15 L16 Assignment #06 update links.md
+ZCZC W03 20 L12 Assignment #02 try some demos
+ZCZC W03 30 L13 Assignment #03 opened and try some midterms problem
+ZCZC W03 30 L16 Assignment #07 open some friend's link
+ZCZC W03 120 L11 Assignment #01 read some OSC 13 and half 14
+
