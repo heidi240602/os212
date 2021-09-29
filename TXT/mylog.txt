@@ -44,4 +44,7 @@ ZCZC W03 20 L12 Assignment #02 try some demos
 ZCZC W03 30 L13 Assignment #03 opened and try some midterms problem
 ZCZC W03 30 L16 Assignment #07 open some friend's link
 ZCZC W03 120 L11 Assignment #01 read some OSC 13 and half 14
-
+ZCZC W04 180 L11 Assignment #01 read OSC10 chapter 9
+ZCZC W04 5 L14 Assignment #04 Install TLPI
+ZCZC W04 10 L15 Assignment #05 Fetch WEEK04.tar.bz2.asc
+ZCZC W04 10 L18 Assignment #08 update mylog.txt 
