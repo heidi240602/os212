@@ -48,3 +48,7 @@ ZCZC W04 180 L11 Assignment #01 read OSC10 chapter 9
 ZCZC W04 5 L14 Assignment #04 Install TLPI
 ZCZC W04 10 L15 Assignment #05 Fetch WEEK04.tar.bz2.asc
 ZCZC W04 10 L18 Assignment #08 update mylog.txt 
+ZCZC W04 10 L16 Assignment #06 update checking and updating bookmark links(if there is something to be updated)
+ZCZC W04 30 L17 Assignment #07 review peer's links
+ZCZC W04 40 L12 Assignment #02 try demos
+ZCZC W04 40 L13 Assignment #03 read the slides and try prev midterm problem
