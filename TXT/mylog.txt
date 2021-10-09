@@ -52,3 +52,13 @@ ZCZC W04 10 L16 Assignment #06 update checking and updating bookmark links(if th
 ZCZC W04 30 L17 Assignment #07 review peer's links
 ZCZC W04 40 L12 Assignment #02 try demos
 ZCZC W04 40 L13 Assignment #03 read the slides and try prev midterm problem
+ZCZC W05 30 L14 Assignment #04 my lowest memory i can boot my system is 185 MB
+ZCZC W05 300 L11 Assignment #01 read OSC10 chapter 10
+ZCZC W05 60 L12 Assignment #02 try demos
+ZCZC W05 120 L13 Assignment #03 try prev midterm
+ZCZC W05 10 L18 Assignment #08 update mylog.txt again
+ZCZC W05 15 L15 Assignment #05 update my link
+ZCZC W05 30 L17 Assignment #07 review peer's links updating myrank.txt
+ZCZC W05 10 L19 Assignment #09 updating myscript.sh
+
+
