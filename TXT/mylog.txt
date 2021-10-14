@@ -60,5 +60,9 @@ ZCZC W05 10 L18 Assignment #08 update mylog.txt again
 ZCZC W05 15 L15 Assignment #05 update my link
 ZCZC W05 30 L17 Assignment #07 review peer's links updating myrank.txt
 ZCZC W05 10 L19 Assignment #09 updating myscript.sh
-
+ZCZC W06 100 L11 Assignment #01 read some OSC10 chapter 3
+ZCZC W06 70 L12 Assignment #02 try demos about forking
+ZCZC W05 60 L14 Assignment #04 try Fork() and shared memory
+ZCZC W05 15 L17 Assignment #07 review and choose 3 links from peer
+ZCZC W05 20 L18 Assignment #08 Update mylog.txt
 

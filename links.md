@@ -16,4 +16,10 @@ Demos scripting untuk latihan dan belajar
 4. [Learn C Online](https://www.onlinegdb.com/online_c_compiler)
 online compiler untuk C programming
 
+5. [Linux CheatSheet](https://www.linuxtrainingacademy.com/linux-commands-cheat-sheet/)
+cheatsheet berserta penjelasan untuk tiap perintah
+
+6. [C basics](https://www.tutorialspoint.com/cprogramming/c_basic_syntax.htm)
+tutorial C dasar dan cheat sheet command yang sering digunakan
+
 
