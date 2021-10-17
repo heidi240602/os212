@@ -22,4 +22,6 @@ cheatsheet berserta penjelasan untuk tiap perintah
 6. [C basics](https://www.tutorialspoint.com/cprogramming/c_basic_syntax.htm)
 tutorial C dasar dan cheat sheet command yang sering digunakan
 
+7. [About Fork](https://www.section.io/engineering-education/fork-in-c-programming-language/)
+penjelasan tentang apa itu fork() dalam OS Linux
 
