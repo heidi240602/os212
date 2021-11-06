@@ -69,3 +69,11 @@ ZCZC W06 120 L11 Assignment #01 read OSC 10 chapter 4
 ZCZC W06 120 L13 Assignment #03 try previous midterm problem
 ZCZC W06 15 L15 Assignment #05 update my link
 ZCZC W06 10 L19 Assignment #09 submit
+ZCZC W07 180 L11 Assignment #01 read OSC 6, 7, 8
+ZCZC W07 60 L13 Assignment #03 try midterm problem
+ZCZC W07 15 L17 Assignment #07 review peer link
+ZCZC W07 15 L15 Assignment #05 update my own link
+ZCZC W07 20 L12 Assignment #02 try W07 Demos
+ZCZC W07 15 L14 Assignment #04 finish W07 main Assignment
+ZCZC W07 5 L18 Assignment #08 Update my log
+ZCZC W07 4 L19 Assignment #09 submit my work

@@ -25,3 +25,5 @@ tutorial C dasar dan cheat sheet command yang sering digunakan
 7. [About Fork](https://www.section.io/engineering-education/fork-in-c-programming-language/)
 penjelasan tentang apa itu fork() dalam OS Linux
 
+8. [About thread](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/4_Threads.html)
+penjelasan tentang apa itu thread secara dasar
